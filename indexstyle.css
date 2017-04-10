@@ -1,0 +1,158 @@
+.navbar-brand{
+	font-size: 28px;
+	background-color: #4aaaa5;
+	padding: 15px;
+	color: #ffffff !important;
+	text-decoration: none;
+	height: 75px;
+	padding-top: 28px;
+}
+
+.navbar-brand:hover { 
+    color: #4aaaa5 !important;
+}
+.navbar-header{
+	padding-left: 150px;
+}
+
+.navbar-right{
+	margin-right: 100px;
+	margin-top: 25px;
+}
+
+body{
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
+}
+
+
+.viddyWell{
+	float:left;
+}
+
+.aboutmecontainer,
+.contactcontainer,
+.portfoliocontainer {
+  background: #fff;
+  border: 1px solid #ddd;
+  margin-left: 150px;
+  margin-bottom: 25px;
+  float: left;
+}
+
+
+.aboutmecontent
+.contactcontent{
+	line-height: 24px;
+	font-size: 15px;
+	font: times;
+
+}
+
+.eye,
+.half,
+.shit{
+	margin: 20px;
+	border: 2px solid black;
+	border-radius: 2px;
+}
+
+.donut,
+.jack,
+.yeti{
+	margin: 20px;
+	border: 2px solid black;
+	border-radius: 2px;
+
+}
+
+#eye,
+#half,
+#shit{
+	width: 225px;
+	height: 40px;
+	border: 2px solid black;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 15px;
+	border-radius: 10px;
+	margin: 180px 0px 0px 20px;
+	position: absolute;
+	text-align: center;
+}
+
+#donut,
+#jack,
+#yeti{
+	width: 225px;
+	height: 40px;
+	border: 2px solid black;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 15px;
+	border-radius: 10px;
+	margin: 6px;
+	position: absolute;	
+	margin: -85px 0px 0px 289px;
+	text-align: center;
+}
+
+p:hover {
+	opacity: 0.3;
+	}
+
+
+.aboutmeheader,
+h2{
+	margin: 10px 0px -10px 0px;
+	font-size: 28px;
+	color: #4aaaa5;
+	}
+
+.contactheader{
+	margin-bottom: 20px
+}
+
+.submit{
+	float:right;
+}
+
+.sidebar {
+  padding: 15px;
+  background: #fff;
+  border: 1px solid #ddd;;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  width: 270px;
+}
+
+.socialize{
+	margin: -10px 0px 10px 0px;
+	text-align: center;
+	font-size: 28px;
+	color: #4aaaa5;
+}
+
+.linkdinIcon,
+.stackOverflowIcon,
+.githubIcon{
+	width:65px;
+	height:65px;
+	margin-left: 10px;
+}
+footer{
+  padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+}
+
+
+
